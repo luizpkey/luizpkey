@@ -64,15 +64,14 @@
 - Programação: Python, JavaScript, C, C# e java
 - Desenvolvimento Web: HTML, CSS
 
-<div>
+#<div>
+#  <a href="https://github.com/luizpkey/luizpkey/">
+#  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpkey&layout=compact&langs_count=7&theme=dracula"/>
+#  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luizpkey&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+#</div>
 
-  <a href="https://github.com/luizpkey/luizpkey/">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpkey&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luizpkey&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<div>
-  <a href="https://github.com/LuizMauricioPeres">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMauricioPeres&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizMauricioPeres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+#<div>
+#  <a href="https://github.com/LuizMauricioPeres">
+#  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMauricioPeres&layout=compact&langs_count=7&theme=dracula"/>
+#  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizMauricioPeres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+#</div>
